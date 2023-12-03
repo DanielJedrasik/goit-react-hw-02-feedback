@@ -1,0 +1,17 @@
+.feedback {
+  font-size: 20px;
+}
+.StatisticList {
+  list-style: none;
+  font-size: 18px;
+  font-weight: 500;
+}
+.good {
+  color: lightgreen;
+}
+.neutral {
+  color: gray;
+}
+.bad {
+  color: red;
+}
